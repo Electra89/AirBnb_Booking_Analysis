@@ -1,5 +1,5 @@
 
-#  AirBnb Bookings Analysis (EDA)
+#  AirBnb Booking Analysis (EDA)
 ![IMG](https://wallpapercave.com/wp/wp10784400.jpg)
 
  The aim of our Airbnb booking analysis was to understand the factors influencing Airbnb prices in New York City and to identify patterns within the dataset. Our analysis provides valuable insights for travelers, hosts, and Airbnb as a platform, enhancing the understanding of New York City's dynamic hospitality landscape.-   Our analysis began with thorough data exploration and cleaning. This crucial phase involved understanding the data's characteristics, including data types, missing values, and value distributions. Simultaneously, we jump on the data cleaning process, addressing issues such as errors, missing values, and duplicates while removing outliers. This rigorous data preparation ensured the quality and integrity of our analysis, enabling us to work with accurate and reliable information.
