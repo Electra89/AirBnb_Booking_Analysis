@@ -12,7 +12,7 @@ The objective of this project is to conduct a comprehensive exploration of the A
 
 The business objective on Airbnb is to create a thriving online marketplace that connects travelers seeking accommodations with hosts who have available lodging. This platform aims to offer a wide range of lodging options to travelers, promote the utilization of spare or vacant properties, and facilitate seamless transactions between guests and hosts.
 
-## Technologies & Libraries Used
+## tech-stack Used
 - Python
 - Numpy
 - Pandas
