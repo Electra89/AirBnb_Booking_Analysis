@@ -41,7 +41,7 @@ The analysis underscores the importance of:
 - Implement robust verification processes for hosts and guests, ensuring secure transactions and fostering a trustworthy environment.
 
 ## Code and Notebooks
-Access the [Colab notebook](XYZ.ipynb) to view the detailed project implementation.
+Access the [Colab notebook](SM_|_AirBnb_Bookings_Analysis.ipynb) to view the detailed project implementation.
 
 ## Data Source
 
