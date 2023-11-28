@@ -26,12 +26,6 @@ The business objective on Airbnb is to create a thriving online marketplace that
 - **Dynamic Pricing Tool:** Develop a pricing tool for hosts, allowing them to dynamically adjust prices based on demand fluctuations, seasonal variations, and local events, empowering hosts to optimize earnings and competitiveness.
 - **Environmental Sustainability Initiative:** Encourage hosts to adopt eco-friendly practices and promote sustainable lodging options, contributing to reducing the environmental footprint of Airbnb listings and aligning with environmentally conscious travelers' preferences.
 
-## Conclusion
-
-The analysis underscores the importance of:
-- **Distinct Neighborhood Dynamics:** In contrast, Queens, Bronx, and Staten Island exhibit notably lower booking volumes and host counts. These areas likely cater to guests seeking budget-friendly accommodations or specific short-term requirements. Intriguingly, these neighborhood groups boast higher room availability compared to bustling areas like Brooklyn and Manhattan.
-- **Differential Demand:** Queens, Bronx, and Staten Island exhibit comparatively lower booking numbers and host counts. These areas likely cater to guests seeking budget-friendly accommodations or those with specific short-term requirements, leading to higher room availability compared to Manhattan and Brooklyn.
-- **Unique Characteristics:** Each neighborhood group in New York City offers distinct advantages - from Manhattan's cultural magnetism to Brooklyn's blend of attractions. Queens, Bronx, and Staten Island cater to specific guest needs, potentially aligning with budget-conscious or shorter-stay preferences.
 
 ## Strategies for Businesses
 
@@ -39,6 +33,13 @@ The analysis underscores the importance of:
 - Offer comprehensive guidance and resources to hosts for creating appealing listings with high-quality photos, accurate descriptions, and attractive amenities.
 - Establish educational programs or workshops for hosts to enhance their hosting skills, customer service, and property management, fostering better guest experiences.
 - Implement robust verification processes for hosts and guests, ensuring secure transactions and fostering a trustworthy environment.
+
+## Conclusion
+
+The analysis underscores the importance of:
+- **Distinct Neighborhood Dynamics:** In contrast, Queens, Bronx, and Staten Island exhibit notably lower booking volumes and host counts. These areas likely cater to guests seeking budget-friendly accommodations or specific short-term requirements. Intriguingly, these neighborhood groups boast higher room availability compared to bustling areas like Brooklyn and Manhattan.
+- **Differential Demand:** Queens, Bronx, and Staten Island exhibit comparatively lower booking numbers and host counts. These areas likely cater to guests seeking budget-friendly accommodations or those with specific short-term requirements, leading to higher room availability compared to Manhattan and Brooklyn.
+- **Unique Characteristics:** Each neighborhood group in New York City offers distinct advantages - from Manhattan's cultural magnetism to Brooklyn's blend of attractions. Queens, Bronx, and Staten Island cater to specific guest needs, potentially aligning with budget-conscious or shorter-stay preferences.
 
 ## Code and Notebooks
 Access the [Colab notebook](SM_|_AirBnb_Bookings_Analysis.ipynb) to view the detailed project implementation.
