@@ -42,6 +42,7 @@ The analysis underscores the importance of:
 - **Unique Characteristics:** Each neighborhood group in New York City offers distinct advantages - from Manhattan's cultural magnetism to Brooklyn's blend of attractions. Queens, Bronx, and Staten Island cater to specific guest needs, potentially aligning with budget-conscious or shorter-stay preferences.
 
 ## Dashboard
+
 <iframe src="https://public.tableau.com/views/AirBnbBookingAnalysis_17027306656220/Dashboard1?:showVizHome=no&:embed=true"
  width="1600" height="800"></iframe>
 
