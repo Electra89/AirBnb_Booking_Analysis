@@ -43,9 +43,7 @@ The analysis underscores the importance of:
 
 ## Dashboard
 
-<iframe src="https://public.tableau.com/views/AirBnbBookingAnalysis_17027306656220/Dashboard1?:showVizHome=no&:embed=true"
- width="1600" height="800"></iframe>
-
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/AirBnbBookingAnalysis_17027306656220/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>   
 
 ## Code and Notebooks
 Access the [Colab notebook](SM_|_AirBnb_Bookings_Analysis.ipynb) to view the detailed project implementation.
