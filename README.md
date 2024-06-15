@@ -47,7 +47,7 @@ The analysis underscores the importance of:
 
 
 ## Code and Notebooks
-Access the [Colab notebook](AirBnb_Bookings_Analysis.ipynb) to view the detailed project implementation.
+Access the [python notebook](AirBnb_Bookings_Analysis.ipynb) to view the detailed project implementation.
 
 ## Data Source
 
